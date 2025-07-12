@@ -44,32 +44,13 @@ All data is stored securely in a relational database, ensuring consistency and r
 
 ---
 
-## 🚀 Future Enhancements
-
-- Integrate **payment gateway** for online payments.  
-- Implement **SMS/email notifications** for ticket confirmations and reminders.  
-- Add **user reviews and ratings** for train services.  
-- Introduce **dynamic pricing** based on demand and availability.  
-- Develop a **mobile app** for easier accessibility on the go.  
-- Incorporate **AI-based recommendations** for personalized travel planning.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Backend:** Java, Spring Boot (or your preferred framework)  
-- **Database:** MySQL / Oracle SQL  
-- **Tools:** Eclipse / VS Code, Git, Maven/Gradle  
-- **Deployment:** Local server (extendable to cloud platforms)
-
----
-
 ## 📸 Screenshots
 
 | Home Page | Booking Page | Admin Dashboard |
-|-----------|---------------|-----------------|
-| ![Home](assets/home.png) | ![Booking](assets/booking.png) | ![Admin](assets/admin.png) |
+|-----------|--------------|-----------------|
+| ![Home Page](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80) | ![Booking Page](https://images.unsplash.com/photo-1522199755839-a2bacb67c546?auto=format&fit=crop&w=600&q=80) | ![Admin Dashboard](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80) |
+
+*Note: Images are placeholders sourced from [Unsplash](https://unsplash.com/). Replace with your actual screenshots for final use.*
 
 ---
 
